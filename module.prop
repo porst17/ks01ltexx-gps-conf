@@ -1,7 +1,7 @@
 id=ks01ltexx-gps-conf
 name=Samsung GT-i9506 GPS fix
-version=v0.0.0
-versionCode=0
+version=v0.1.0
+versionCode=1
 author=topjohnwu
 description=Fixes a GPS problem on kyasu's LineageOS 15.1 ROM for Samsung GT-i9506 LTE-A (ks01ltexx).
 minMagisk=1500
